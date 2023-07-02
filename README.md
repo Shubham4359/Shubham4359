@@ -18,7 +18,7 @@
 <br/>
 <br/> 
 
-<i>Random dev joke for you! </i><br>
+<i>Have some smile on your face! </i><br>
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
 <!--
