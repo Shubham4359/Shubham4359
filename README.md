@@ -16,8 +16,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham4359&layout=compact&title_color=CCD6F6&text_color=CCD6F6&icon_color=2bbc8a&bg_color=22272E&hide_border=1&border_radius=15&custom_title=Languages" />
 </a>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
+<i>Random dev joke for you! </i><br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
 ---
 <!--
